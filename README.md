@@ -11,7 +11,7 @@ We'll be making use of the simulation to train a car how to drive and navigate o
 3) Activate Environment: **conda activate drive**
 4) Install Dependencies: **pip install -r requirement.txt**
 5) Run main file: **python drive.py**
-6) Simulation: **Start the simulato**
+6) Simulation: **Start the simulator**
 7) Deactivate Environment: **conda deactivate** (after completion)
 
 
