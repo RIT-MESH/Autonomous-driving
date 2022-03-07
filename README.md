@@ -23,4 +23,4 @@ Note: if simulator is not connected then use following commands
 
 2) pip install python-socketio==4.6.1
 
-Solution for simulation not coneected: [click here](udacity/self-driving-car-sim/issues/131)
+Solution for simulation not coneected: [udacity/self-driving-car-sim/issues/131](udacity/self-driving-car-sim/issues/131)
