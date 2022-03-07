@@ -22,3 +22,5 @@ Note: if simulator is not connected then use following commands
 1) pip install python-engineio==3.13.2
 
 2) pip install python-socketio==4.6.1
+
+Solution for simulation not coneected: [click here](udacity/self-driving-car-sim/issues/131)
