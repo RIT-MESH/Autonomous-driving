@@ -2,7 +2,7 @@
 
 We'll be making use of the simulation to train a car how to drive and navigate on its own. This simulator is provided to us courtesy of the audacity organization who have set up an open source vehicular simulation built with unity. There are other simulators that you can make use of like air sim, another self-driving car Open-Source simulator that's based on Unreal Engine.
 
-<p align="center"><img src="https://github.com/RIT-MESH/Autonomous-driving/blob/main/drive.PNG?raw=true"alt="Sublime's custom image"/>
+<p align="center"><img src="https://user-images.githubusercontent.com/74177895/157059734-c5e228fc-9010-498e-ad98-6f1997a5298d.PNG?raw=true"alt="Sublime's custom image"/>
  </p>
 
 # Steps
